@@ -8,9 +8,9 @@
 - Found out that apart from **total market capitalization of bitcoin**, which obviously is a function of bitcoin price, the **interest index** by google trends and **daily number of total transactions** of bitcoin highly affect its price.
 - It was also inferred that **bitcoin valuation is more affected by tech stocks valuation** especifically the **NASDAQ-100** index compared to the **S&P-500** index.
 
-![](https://github.com/harrisasadb/HARRIS-ASAD-PORTFOLIO/blob/gh-pages/images/correlation.png)
-![](https://github.com/harrisasadb/HARRIS-ASAD-PORTFOLIO/blob/gh-pages/images/plot.png)
-![](https://github.com/harrisasadb/HARRIS-ASAD-PORTFOLIO/blob/gh-pages/images/interest.png)
-![](https://github.com/harrisasadb/HARRIS-ASAD-PORTFOLIO/blob/gh-pages/images/residual.jpg)
-![](https://github.com/harrisasadb/HARRIS-ASAD-PORTFOLIO/blob/gh-pages/images/SUBSET.jpg)
+![](https://github.com/harrisasadb/Bitcoin-Multiple-Regression-Inference/blob/main/bitcoin%20pics/correlation.png)
+![](https://github.com/harrisasadb/Bitcoin-Multiple-Regression-Inference/blob/main/bitcoin%20pics/plot.png)
+![](https://github.com/harrisasadb/Bitcoin-Multiple-Regression-Inference/blob/main/bitcoin%20pics/interest.png)
+![](https://github.com/harrisasadb/Bitcoin-Multiple-Regression-Inference/blob/main/bitcoin%20pics/residual.jpg)
+![](https://github.com/harrisasadb/Bitcoin-Multiple-Regression-Inference/blob/main/bitcoin%20pics/subset.jpg)
 
